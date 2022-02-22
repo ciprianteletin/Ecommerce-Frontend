@@ -1,0 +1,17 @@
+{
+  "hosting": [
+    {
+      "app": {
+        "project": "angular-ecommerce",
+        "target": "build",
+        "configuration": "production",
+        "path": "dist/angular-ecommerce"
+      },
+      "azureHosting": {
+        "subscription": "3f45f3b4-e206-4c6d-a365-bb2a096f11f6",
+        "resourceGroupName": "angular-ecommerce-static-deploy",
+        "account": "angularecommercestatic"
+      }
+    }
+  ]
+}

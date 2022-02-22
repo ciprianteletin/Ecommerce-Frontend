@@ -1,0 +1,13 @@
+#main-footer {
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  background: #333;
+  color: #fff;
+}
+
+#main-footer p {
+  padding-top: 18px;
+}
